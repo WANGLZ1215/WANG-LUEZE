@@ -1,4 +1,3 @@
-# WANG-LUEZE
 ***PPO vs GRPO on LunarLanderContinuous-v3***
 
 This repository contains two self-contained PyTorch implementations that train an actor-critic PPO and a critic-free GRPO agent on the classic control task LunarLanderContinuous-v3. The code is written for clarity and reproducibility:
