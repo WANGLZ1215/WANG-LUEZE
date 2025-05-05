@@ -17,7 +17,7 @@ tensorboard
 
 Key Observations
 1.PPO consistently reaches the 200-reward solve threshold
-Fastest run (PPO-A) solved in ≈9 M steps; even smaller 2.5 M-step run (PPO-B) climbs steadily.
+Fastest run solved in ≈9 M steps; even smaller 2.5 M-step run climbs steadily.
 
 2.GRPO is markedly less stable
 All three GRPO runs exhibit rising policy entropy, high clip-fraction (60-85 %), and failing reward curves.
