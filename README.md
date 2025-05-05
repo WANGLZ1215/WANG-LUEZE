@@ -7,6 +7,8 @@ ppo_lander.py – Proximal Policy Optimization with separate Actor & Critic (val
 
 grpo_lander.py – Group-Relative Policy Optimization (baseline-normalized returns, no Critic).
 
+At the same time, the project file contains three PPO test line graphs and three GRPO test line graphs (using different parameters).
+
 
 # Requirements
 
