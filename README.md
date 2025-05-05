@@ -33,6 +33,7 @@ In PPO it settles ≈0.5; in GRPO it oscillates >0.7 and often saturates the cla
 5.The convergence speed of PPO varies significantly depending on the parameters. However, GRPO will not converge even if the parameters are adjusted.
 
 References
+
 Schulman et al., 2017 – “Proximal Policy Optimization Algorithms”
 
 DeepSeek-R1 (2024) – introduces GRPO for language-model RLHF
