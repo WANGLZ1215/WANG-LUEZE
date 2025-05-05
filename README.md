@@ -9,6 +9,7 @@ grpo_lander.py – Group-Relative Policy Optimization (baseline-normalized retur
 
 
 Requirements
+
 python >= 3.8  
 torch >= 2.0  
 gymnasium[box2d] >= 0.29  
