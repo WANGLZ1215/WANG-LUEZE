@@ -16,6 +16,7 @@ tensorboard
 
 
 Key Observations
+
 1.PPO consistently reaches the 200-reward solve threshold
 Fastest run solved in ≈9 M steps; even smaller 2.5 M-step run climbs steadily.
 
